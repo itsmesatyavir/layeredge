@@ -42,12 +42,17 @@ cd layeredge
 ```bash
 pip install -r requirements.txt
 ```
+```bash
+npm i
+```
 
 ### 3. Run the Bot
 ```bash
 python main.py
 ```
-
+```bash
+node index
+```
 ---
 
 ## 🧠 Features
